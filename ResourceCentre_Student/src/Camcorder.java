@@ -1,5 +1,6 @@
 
 public class Camcorder extends Item{
+	// this is a test comment from roy again
 	private int opticalZoom;
 
 	public Camcorder(String assetTag, String description, int opticalZoom) {
